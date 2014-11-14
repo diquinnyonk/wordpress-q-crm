@@ -1,0 +1,18 @@
+label.error {
+	color: red;
+	font-style: italic;
+}
+
+input.error {
+	border:1px dotted red;
+	background: rgba(255,255,255,0.5);
+}
+
+.top-buttons {clear:both;}
+.top-buttons--first {padding-top: 10px;}
+
+
+.qcrm__textarea {
+	min-width: 380px;
+	min-height: 100px;
+}
