@@ -1,7 +1,7 @@
 wordpress-q-crm
 ===============
 
-a CRM I made in wordpress, needs a bit of an overhaul but works for version iteration 1
+a CRM I made in wordpress, needs a bit of an overhaul but works for version iteration 1, here is the blog post on my site [http://www.paulmarkquinn.co.uk/another-wordpress-crm-plugin/](http://www.paulmarkquinn.co.uk/another-wordpress-crm-plugin/)
 
 As a first version its a case of uploading to your plugins folder and activating.
 
